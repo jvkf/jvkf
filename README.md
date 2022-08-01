@@ -2,7 +2,7 @@
 
 <i> I'm a web developer, living at Floripa, navigating through the waves of Front-end :) </i>
 
-Currently, I'm interested in advanced topics of React, consolidating CSS knowledge & its tools and focused on learning the best practices for a developer inside a company.
+Currently, I'm interested in Redux, Typescript and consolidating CSS knowledge & its tools. I'm focused on learning the best practices for a developer inside a company.
 
 ![HTML](https://img.shields.io/badge/-HTML-427AA1?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-427AA1?logo=CSS3&logoColor=white&style=flat-square)
