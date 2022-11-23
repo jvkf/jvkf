@@ -1,6 +1,6 @@
+<img align="right" src="https://www.codewars.com/users/jvkf/badges/small" />
 ## João Vítor Ferraz (aka Jota!)
 
-<img align="center" src="https://www.codewars.com/users/jvkf/badges/small" />
 
 <i> I'm a web developer living at Floripa/Brazil, navigating through the waves of life :) </i>
 
