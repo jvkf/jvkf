@@ -3,7 +3,7 @@
 ## João Vítor Ferraz (aka Jota!)
 
 
-<i> I'm a web developer living at Floripa/Brazil, navigating through the waves of life :) </i>
+<i> Web developer, living in Floripa/Brazil </i>
 
 
 ![HTML](https://img.shields.io/badge/-HTML-427AA1?logo=html5&logoColor=white&style=flat-square) 
